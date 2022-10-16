@@ -1,0 +1,125 @@
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.exe
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.deps.json
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.json
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\veloMax.pdb
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.FormPrincipal.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.Login.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.Properties.Resources.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CopyComplete
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.pdb
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FomsMenu.Produits.Pieces.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Systeme.User.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.Modele.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Particuliers.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Boutique.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Stocks.Fournisseur.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.ProgrammeFidelite.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Commandes.Commandes.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Demo.Demo.resources
+C:\Users\steve\OneDrive\Bureau\projet mysql\VeloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.ApprovisionnerModele.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.AssemblyReference.cache
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.dll
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.pdb
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.exe
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.deps.json
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.json
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.dev.json
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\veloMax.pdb
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\sl200010\Desktop\veloMax\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormPrincipal.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Boutique.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Particuliers.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.ProgrammeFidelite.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Commandes.Commandes.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Demo.Demo.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.ApprovisionnerModele.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Stocks.Fournisseur.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.Modele.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FomsMenu.Produits.Pieces.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Systeme.User.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.Login.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.Properties.Resources.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.Statistique.resources
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.GenerateResource.cache
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfoInputs.cache
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfo.cs
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CoreCompileInputs.cache
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CopyComplete
+C:\Users\sl200010\Desktop\veloMax\obj\Debug\net5.0-windows\veloMax.genruntimeconfig.cache
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.AssemblyReference.cache
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.dll
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.pdb
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.exe
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.deps.json
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.json
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.runtimeconfig.dev.json
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\ref\veloMax.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\veloMax.pdb
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\bapti\Desktop\dossier\veloMax\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormPrincipal.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Boutique.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.Particuliers.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Clients.ProgrammeFidelite.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Commandes.Commandes.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Demo.Demo.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.ApprovisionnerModele.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Stocks.Fournisseur.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Produits.Modele.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FomsMenu.Produits.Pieces.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.FormsMenu.Systeme.User.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.Login.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.Properties.Resources.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.Statistique.resources
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.GenerateResource.cache
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfoInputs.cache
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.AssemblyInfo.cs
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CoreCompileInputs.cache
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.csproj.CopyComplete
+C:\Users\bapti\Desktop\dossier\veloMax\obj\Debug\net5.0-windows\veloMax.genruntimeconfig.cache
