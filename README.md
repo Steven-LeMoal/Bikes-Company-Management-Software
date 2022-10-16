@@ -1,6 +1,6 @@
-# Sales-Management-Software
+# Sales-Company-Management-Software
 
-Sales Management Software using C# (with interface) and SQL.
+Sales Company Management Software using C# (with interface) and SQL.
 
 
 All rights reserved...
