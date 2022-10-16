@@ -1,6 +1,6 @@
-# Sales-Company-Management-Software
+# Bikes-Company-Management-Software
 
-Sales Company Management Software using C# (with interface) and SQL.
+Bikes Company Management Software using C# (with interface) and SQL.
 
 I put the SQL Database files in the SQL forlder.
 
