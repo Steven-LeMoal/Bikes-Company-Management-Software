@@ -1,1 +1,1 @@
-# Sales-Management-Software-C_Sharp-SQL
+# Sales-Management-Software
